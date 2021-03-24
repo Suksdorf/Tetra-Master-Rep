@@ -1,0 +1,5971 @@
+fileFormatVersion: 2
+guid: 63e7569794e61844ca3efdfc92d168bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3827901840223969867
+    second: Tetra Master Sprite_0
+  - first:
+      213: 4621158132702266266
+    second: Tetra Master Sprite_1
+  - first:
+      213: 8245232907774156556
+    second: Tetra Master Sprite_2
+  - first:
+      213: -4407600374933670486
+    second: Tetra Master Sprite_3
+  - first:
+      213: -6942922528249217032
+    second: Tetra Master Sprite_4
+  - first:
+      213: 7181278001182569884
+    second: Tetra Master Sprite_5
+  - first:
+      213: -8877146916759941103
+    second: Tetra Master Sprite_6
+  - first:
+      213: -8820863486338997837
+    second: Tetra Master Sprite_7
+  - first:
+      213: 1055565845329314417
+    second: Tetra Master Sprite_8
+  - first:
+      213: 8034957054028810268
+    second: Tetra Master Sprite_9
+  - first:
+      213: -4734012863459924877
+    second: Tetra Master Sprite_10
+  - first:
+      213: 8890703275594415377
+    second: Tetra Master Sprite_11
+  - first:
+      213: -4632278209962274085
+    second: Tetra Master Sprite_12
+  - first:
+      213: -5488191245835633498
+    second: Tetra Master Sprite_13
+  - first:
+      213: 3647872075907679482
+    second: Tetra Master Sprite_14
+  - first:
+      213: -1140597112506414665
+    second: Tetra Master Sprite_15
+  - first:
+      213: -2633792513280140670
+    second: Tetra Master Sprite_16
+  - first:
+      213: 4975869099014095794
+    second: Tetra Master Sprite_17
+  - first:
+      213: 1856206007453774889
+    second: Tetra Master Sprite_18
+  - first:
+      213: -1856003138625245257
+    second: Tetra Master Sprite_19
+  - first:
+      213: 7631035773000856897
+    second: Tetra Master Sprite_20
+  - first:
+      213: -7156868130246095805
+    second: Tetra Master Sprite_21
+  - first:
+      213: -8162832436399954535
+    second: Tetra Master Sprite_22
+  - first:
+      213: 9136866728917485062
+    second: Tetra Master Sprite_23
+  - first:
+      213: 4366651415230347994
+    second: Tetra Master Sprite_24
+  - first:
+      213: 6731905000524866801
+    second: Tetra Master Sprite_25
+  - first:
+      213: 8458537220092187953
+    second: Tetra Master Sprite_26
+  - first:
+      213: -490859533134101966
+    second: Tetra Master Sprite_27
+  - first:
+      213: -4658573060797862545
+    second: Tetra Master Sprite_28
+  - first:
+      213: 6884940638812096637
+    second: Tetra Master Sprite_29
+  - first:
+      213: -7979928896944715207
+    second: Tetra Master Sprite_30
+  - first:
+      213: 1593347390739439752
+    second: Tetra Master Sprite_31
+  - first:
+      213: -3632435024301108014
+    second: Tetra Master Sprite_32
+  - first:
+      213: 8792184776496918511
+    second: Tetra Master Sprite_33
+  - first:
+      213: -8136023933499426632
+    second: Tetra Master Sprite_34
+  - first:
+      213: -6670766240085039468
+    second: Tetra Master Sprite_35
+  - first:
+      213: -7577254602233162373
+    second: Tetra Master Sprite_36
+  - first:
+      213: -4187805146282477075
+    second: Tetra Master Sprite_37
+  - first:
+      213: 3347713747046057070
+    second: Tetra Master Sprite_38
+  - first:
+      213: 8876869021860134316
+    second: Tetra Master Sprite_39
+  - first:
+      213: 7520487761982454230
+    second: Tetra Master Sprite_40
+  - first:
+      213: 9058980436392931501
+    second: Tetra Master Sprite_41
+  - first:
+      213: 687442070651313562
+    second: Tetra Master Sprite_42
+  - first:
+      213: 8274381173224248566
+    second: Tetra Master Sprite_43
+  - first:
+      213: -4321520656950103651
+    second: Tetra Master Sprite_44
+  - first:
+      213: 5982448739867335253
+    second: Tetra Master Sprite_45
+  - first:
+      213: -1577503122895418632
+    second: Tetra Master Sprite_46
+  - first:
+      213: -3597711050119542261
+    second: Tetra Master Sprite_47
+  - first:
+      213: 1765756870915602097
+    second: Tetra Master Sprite_48
+  - first:
+      213: -1572642203363371888
+    second: Tetra Master Sprite_49
+  - first:
+      213: 3153396444562893891
+    second: Tetra Master Sprite_50
+  - first:
+      213: -4858524111933622225
+    second: Tetra Master Sprite_51
+  - first:
+      213: 7504759388226972143
+    second: Tetra Master Sprite_52
+  - first:
+      213: -3297728429561287493
+    second: Tetra Master Sprite_53
+  - first:
+      213: -3899512691746018800
+    second: Tetra Master Sprite_54
+  - first:
+      213: -6561040408797214917
+    second: Tetra Master Sprite_55
+  - first:
+      213: -4607603908414658808
+    second: Tetra Master Sprite_56
+  - first:
+      213: -5531211645673783566
+    second: Tetra Master Sprite_57
+  - first:
+      213: -3966498377062045723
+    second: Tetra Master Sprite_58
+  - first:
+      213: -3975571839317341345
+    second: Tetra Master Sprite_59
+  - first:
+      213: 7738404959341171497
+    second: Tetra Master Sprite_60
+  - first:
+      213: 8147180475426721989
+    second: Tetra Master Sprite_61
+  - first:
+      213: 1266968303907407379
+    second: Tetra Master Sprite_62
+  - first:
+      213: -5394825283818000766
+    second: Tetra Master Sprite_63
+  - first:
+      213: -6291231429890511228
+    second: Tetra Master Sprite_64
+  - first:
+      213: -2003146849188008558
+    second: Tetra Master Sprite_65
+  - first:
+      213: 5490684230998804
+    second: Tetra Master Sprite_66
+  - first:
+      213: -4977697760938733675
+    second: Tetra Master Sprite_67
+  - first:
+      213: 6919401780446013114
+    second: Tetra Master Sprite_68
+  - first:
+      213: 114911838070478025
+    second: Tetra Master Sprite_69
+  - first:
+      213: -4918718025099846098
+    second: Tetra Master Sprite_70
+  - first:
+      213: -1469148456035905402
+    second: Tetra Master Sprite_71
+  - first:
+      213: -5414578958790633099
+    second: Tetra Master Sprite_72
+  - first:
+      213: -1731049658913535043
+    second: Tetra Master Sprite_73
+  - first:
+      213: -5925309980928633719
+    second: Tetra Master Sprite_74
+  - first:
+      213: 7358081902057593469
+    second: Tetra Master Sprite_75
+  - first:
+      213: -7020455581148090675
+    second: Tetra Master Sprite_76
+  - first:
+      213: 8686616069400837303
+    second: Tetra Master Sprite_77
+  - first:
+      213: 1340061258236377419
+    second: Tetra Master Sprite_78
+  - first:
+      213: -683588822659061513
+    second: Tetra Master Sprite_79
+  - first:
+      213: -3712239601307835931
+    second: Tetra Master Sprite_80
+  - first:
+      213: 95979573289187445
+    second: Tetra Master Sprite_81
+  - first:
+      213: 4275893852357970110
+    second: Tetra Master Sprite_82
+  - first:
+      213: 757247158486830288
+    second: Tetra Master Sprite_83
+  - first:
+      213: -1602607617304873387
+    second: Tetra Master Sprite_84
+  - first:
+      213: -543436152481813242
+    second: Tetra Master Sprite_85
+  - first:
+      213: 2226034683335626042
+    second: Tetra Master Sprite_86
+  - first:
+      213: -5949735809167647629
+    second: Tetra Master Sprite_87
+  - first:
+      213: -561870988328843769
+    second: Tetra Master Sprite_88
+  - first:
+      213: 2262653430691885642
+    second: Tetra Master Sprite_89
+  - first:
+      213: 4895120436462910246
+    second: Tetra Master Sprite_90
+  - first:
+      213: -7790602753100449097
+    second: Tetra Master Sprite_91
+  - first:
+      213: 7608017301124491963
+    second: Tetra Master Sprite_92
+  - first:
+      213: -8115278902792830801
+    second: Tetra Master Sprite_93
+  - first:
+      213: 773918279680494544
+    second: Tetra Master Sprite_94
+  - first:
+      213: 3888237696220021762
+    second: Tetra Master Sprite_95
+  - first:
+      213: 673838026856782232
+    second: Tetra Master Sprite_96
+  - first:
+      213: 1700247865906217622
+    second: Tetra Master Sprite_97
+  - first:
+      213: 2200568157103865148
+    second: Tetra Master Sprite_98
+  - first:
+      213: -3106077333316337563
+    second: Tetra Master Sprite_99
+  - first:
+      213: -5165303998707773427
+    second: Tetra Master Sprite_100
+  - first:
+      213: -7593663271246557320
+    second: Tetra Master Sprite_101
+  - first:
+      213: 3144857585651159370
+    second: Tetra Master Sprite_102
+  - first:
+      213: 6898896140135790704
+    second: Tetra Master Sprite_103
+  - first:
+      213: -220440453607125842
+    second: Tetra Master Sprite_104
+  - first:
+      213: 7992751278926305831
+    second: Tetra Master Sprite_105
+  - first:
+      213: 5273069521476798588
+    second: Tetra Master Sprite_106
+  - first:
+      213: -7761058942642743750
+    second: Tetra Master Sprite_107
+  - first:
+      213: -6417183802825050519
+    second: Tetra Master Sprite_108
+  - first:
+      213: -8034668655183400143
+    second: Tetra Master Sprite_109
+  - first:
+      213: 1969270980003405953
+    second: Tetra Master Sprite_110
+  - first:
+      213: -275344826675811022
+    second: Tetra Master Sprite_111
+  - first:
+      213: 3215760708211996950
+    second: Tetra Master Sprite_216
+  - first:
+      213: -2869179209029740216
+    second: Tetra Master Sprite_113
+  - first:
+      213: -491275026043666254
+    second: Tetra Master Sprite_114
+  - first:
+      213: -5347982032538230893
+    second: Tetra Master Sprite_115
+  - first:
+      213: -3928011096383910039
+    second: Tetra Master Sprite_116
+  - first:
+      213: -6077728837563037500
+    second: Tetra Master Sprite_117
+  - first:
+      213: -4669342660213820182
+    second: Tetra Master Sprite_118
+  - first:
+      213: -4290785413462745366
+    second: Tetra Master Sprite_119
+  - first:
+      213: -8754192281204314982
+    second: Tetra Master Sprite_120
+  - first:
+      213: -500362386074806409
+    second: Tetra Master Sprite_121
+  - first:
+      213: -2793175325400397432
+    second: Tetra Master Sprite_122
+  - first:
+      213: 1025083549743220638
+    second: Tetra Master Sprite_123
+  - first:
+      213: 7246769998729299640
+    second: Tetra Master Sprite_124
+  - first:
+      213: -4627421613718119024
+    second: Tetra Master Sprite_125
+  - first:
+      213: 3932907347416605244
+    second: Tetra Master Sprite_126
+  - first:
+      213: 262844819380249536
+    second: Tetra Master Sprite_127
+  - first:
+      213: 5541178964555350404
+    second: Tetra Master Sprite_128
+  - first:
+      213: -2677284554550277723
+    second: Tetra Master Sprite_129
+  - first:
+      213: -2967194319723921292
+    second: Tetra Master Sprite_130
+  - first:
+      213: 1006977869107361765
+    second: Tetra Master Sprite_131
+  - first:
+      213: 3390183723298415620
+    second: Tetra Master Sprite_132
+  - first:
+      213: -8721588525658280505
+    second: Tetra Master Sprite_133
+  - first:
+      213: 6764145279126939799
+    second: Tetra Master Sprite_134
+  - first:
+      213: -3929418492107443090
+    second: Tetra Master Sprite_135
+  - first:
+      213: 276923575601380164
+    second: Tetra Master Sprite_136
+  - first:
+      213: -938068803633576224
+    second: Tetra Master Sprite_137
+  - first:
+      213: 2361292515560148377
+    second: Tetra Master Sprite_138
+  - first:
+      213: -615604265409754184
+    second: Tetra Master Sprite_139
+  - first:
+      213: 2168760658017576206
+    second: Tetra Master Sprite_140
+  - first:
+      213: 1571475470755363458
+    second: Tetra Master Sprite_141
+  - first:
+      213: 307692797672178345
+    second: Tetra Master Sprite_142
+  - first:
+      213: -426592590903640573
+    second: Tetra Master Sprite_143
+  - first:
+      213: -3851513304991599660
+    second: Tetra Master Sprite_144
+  - first:
+      213: -7964497357823969716
+    second: Tetra Master Sprite_145
+  - first:
+      213: -2379870978285716537
+    second: Tetra Master Sprite_146
+  - first:
+      213: -3418194304305599538
+    second: FondoAzul
+  - first:
+      213: 1633007646062752776
+    second: FondoRojo
+  - first:
+      213: -5502256584551157637
+    second: Bloque1
+  - first:
+      213: 7926909556240217151
+    second: Bloque2
+  - first:
+      213: 3802120533137283412
+    second: Reverso
+  - first:
+      213: 4122905016444414522
+    second: Tetra Master Sprite_152
+  - first:
+      213: 6479617072146503105
+    second: Tetra Master Sprite_153
+  - first:
+      213: 4687952663201275961
+    second: Tetra Master Sprite_154
+  - first:
+      213: -476076246337250387
+    second: Tetra Master Sprite_155
+  - first:
+      213: 8866575815045610515
+    second: Tetra Master Sprite_156
+  - first:
+      213: 5788443886066861475
+    second: Tetra Master Sprite_157
+  - first:
+      213: -5254464966040293351
+    second: Tetra Master Sprite_158
+  - first:
+      213: -356158534502053770
+    second: Tetra Master Sprite_159
+  - first:
+      213: -4769488869624090137
+    second: Tetra Master Sprite_160
+  - first:
+      213: -5572760381839349156
+    second: Tetra Master Sprite_161
+  - first:
+      213: 3548296901143179299
+    second: Tetra Master Sprite_162
+  - first:
+      213: 3732256344275498472
+    second: Tetra Master Sprite_163
+  - first:
+      213: -1294791258642906292
+    second: Tetra Master Sprite_164
+  - first:
+      213: -5415316031876217052
+    second: Tetra Master Sprite_165
+  - first:
+      213: 5913853210901841329
+    second: Tetra Master Sprite_166
+  - first:
+      213: -5873200642696105725
+    second: Tetra Master Sprite_167
+  - first:
+      213: -4095282649943564693
+    second: Tetra Master Sprite_168
+  - first:
+      213: 2143515100070344024
+    second: Tetra Master Sprite_169
+  - first:
+      213: -5031812852603911539
+    second: Tetra Master Sprite_170
+  - first:
+      213: -5093253478651712641
+    second: Tetra Master Sprite_171
+  - first:
+      213: 1957354449270071573
+    second: Tetra Master Sprite_172
+  - first:
+      213: -6191373749544231670
+    second: Tetra Master Sprite_173
+  - first:
+      213: 6184933347966418362
+    second: Tetra Master Sprite_174
+  - first:
+      213: -971029128792872866
+    second: Tetra Master Sprite_175
+  - first:
+      213: 7933198689350890578
+    second: Tetra Master Sprite_176
+  - first:
+      213: -4133344385944107971
+    second: Tetra Master Sprite_177
+  - first:
+      213: 6073904262031134596
+    second: Tetra Master Sprite_178
+  - first:
+      213: -6505144024286253697
+    second: Tetra Master Sprite_179
+  - first:
+      213: -239902618285275409
+    second: Tetra Master Sprite_180
+  - first:
+      213: -870996090492630138
+    second: Tetra Master Sprite_181
+  - first:
+      213: -7062215385212047018
+    second: Tetra Master Sprite_182
+  - first:
+      213: 7691527287942062480
+    second: Tetra Master Sprite_183
+  - first:
+      213: 3327569823679043867
+    second: Tetra Master Sprite_184
+  - first:
+      213: 4692887815441386080
+    second: Tetra Master Sprite_185
+  - first:
+      213: -7315882527908729379
+    second: Tetra Master Sprite_186
+  - first:
+      213: 9187787716234536427
+    second: Tetra Master Sprite_187
+  - first:
+      213: -3077191348564416678
+    second: Tetra Master Sprite_188
+  - first:
+      213: -6838495726534768605
+    second: Tetra Master Sprite_189
+  - first:
+      213: 7146157640809028000
+    second: Tetra Master Sprite_190
+  - first:
+      213: -3025517119228280653
+    second: Tetra Master Sprite_191
+  - first:
+      213: -7123134499913371311
+    second: Tetra Master Sprite_192
+  - first:
+      213: -1970001223228887287
+    second: Tetra Master Sprite_193
+  - first:
+      213: 5715509976039243563
+    second: Tetra Master Sprite_194
+  - first:
+      213: -3451227405437679196
+    second: Tetra Master Sprite_195
+  - first:
+      213: 6240850606710570889
+    second: Tetra Master Sprite_196
+  - first:
+      213: -3607004409221681698
+    second: Tetra Master Sprite_197
+  - first:
+      213: -9171490240446212500
+    second: Tetra Master Sprite_198
+  - first:
+      213: 8839485993171771000
+    second: Tetra Master Sprite_199
+  - first:
+      213: -6066732208996225675
+    second: Tetra Master Sprite_200
+  - first:
+      213: 3176874791002604380
+    second: Tetra Master Sprite_201
+  - first:
+      213: -7008192075115407472
+    second: Tetra Master Sprite_202
+  - first:
+      213: 8474382691757148537
+    second: Tetra Master Sprite_203
+  - first:
+      213: -3426868590455346181
+    second: Tetra Master Sprite_204
+  - first:
+      213: 6121974581500646643
+    second: Tetra Master Sprite_205
+  - first:
+      213: -9097791341725541734
+    second: Tetra Master Sprite_206
+  - first:
+      213: -7087079885233164657
+    second: 8
+  - first:
+      213: 5290319762279118123
+    second: Tetra Master Sprite_208
+  - first:
+      213: 5109364593310892113
+    second: Tetra Master Sprite_216
+  - first:
+      213: 6960952598504924389
+    second: Tetra Master Sprite_211
+  - first:
+      213: 7261769508148332834
+    second: Tetra Master Sprite_216
+  - first:
+      213: 2395464597938003004
+    second: Tetra Master Sprite_216
+  - first:
+      213: 5377252881065012775
+    second: Tetra Master Sprite_216
+  - first:
+      213: -8212685085119852305
+    second: Tetra Master Sprite_216
+  - first:
+      213: 8461905894362723852
+    second: Tetra Master Sprite_216
+  - first:
+      213: 3215760708211996950
+    second: Tetra Master Sprite_112
+  - first:
+      213: 4885375177706120482
+    second: Tetra Master Sprite_217
+  - first:
+      213: 894891041728831423
+    second: Tetra Master Sprite_218
+  - first:
+      213: 5494745759240920127
+    second: Tetra Master Sprite_219
+  - first:
+      213: -756867456966803047
+    second: Tetra Master Sprite_220
+  - first:
+      213: 7332672697105729045
+    second: Tetra Master Sprite_221
+  - first:
+      213: -6586497395403727960
+    second: Tetra Master Sprite_222
+  - first:
+      213: -8737631376746802111
+    second: Tetra Master Sprite_223
+  - first:
+      213: 674277344559204154
+    second: Tetra Master Sprite_224
+  - first:
+      213: -4302330872244356593
+    second: Tetra Master Sprite_225
+  - first:
+      213: 1460631819018726858
+    second: Tetra Master Sprite_226
+  - first:
+      213: 5329121526104644591
+    second: Tetra Master Sprite_227
+  - first:
+      213: -1363324328584640723
+    second: Tetra Master Sprite_228
+  - first:
+      213: -2660693962228853702
+    second: Tetra Master Sprite_229
+  - first:
+      213: -2078748711689594840
+    second: Tetra Master Sprite_230
+  - first:
+      213: 2242238429447275034
+    second: Tetra Master Sprite_231
+  - first:
+      213: 3380430074114110500
+    second: Tetra Master Sprite_232
+  - first:
+      213: 5109463735817932485
+    second: Tetra Master Sprite_233
+  - first:
+      213: 3478256608241250841
+    second: Tetra Master Sprite_234
+  - first:
+      213: 8846718003110522320
+    second: Tetra Master Sprite_235
+  - first:
+      213: 8811252569499387022
+    second: Tetra Master Sprite_236
+  - first:
+      213: 60037115281180046
+    second: Tetra Master Sprite_237
+  - first:
+      213: -8334543656307599835
+    second: Tetra Master Sprite_238
+  - first:
+      213: 4990406358870913092
+    second: Tetra Master Sprite_239
+  - first:
+      213: 7816719533130076494
+    second: Tetra Master Sprite_240
+  - first:
+      213: -1252599018554725329
+    second: Tetra Master Sprite_241
+  - first:
+      213: 8529021124108036597
+    second: Tetra Master Sprite_242
+  - first:
+      213: -6151100056579454509
+    second: Tetra Master Sprite_243
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tetra Master Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 879
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a4540eccc16cf4eb18d59bb4bb24b0
+      internalID: 3827901840223969867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 879
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ea61fa032dbbb4ca339fa17a528c1e
+      internalID: 4621158132702266266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 879
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac14cbf39cf5f24fa24c29dc7b5f892
+      internalID: 8245232907774156556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 879
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b5d81be3663624fb11e6c7786ce969
+      internalID: -4407600374933670486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 879
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cede6d1365aedf4ea04eab21d440ee5
+      internalID: -6942922528249217032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 879
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c037df5ecbd8a6e42ab80e1707e5c388
+      internalID: 7181278001182569884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 879
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cc9125321764844975e81a006ba19d
+      internalID: -8877146916759941103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 879
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0dd5a9dcf22e64dba477565bc27b71
+      internalID: -8820863486338997837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 879
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adbc8eed3579114d8677294c32d9d7d
+      internalID: 1055565845329314417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 879
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4ab564f61ca974ebc350741390af22
+      internalID: 8034957054028810268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 879
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e69aa784e91b04a9bbd4f87da81385
+      internalID: -4734012863459924877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 879
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552dafda4e753f74c9e9954f5d5978dd
+      internalID: 8890703275594415377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 879
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84ae8a8c57bbd74db74cfc6e344b104
+      internalID: -4632278209962274085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 818
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6251f46588383a4c94c31a08c08611b
+      internalID: -5488191245835633498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 818
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe42837dc5c67ab4d938891ace5cf8a7
+      internalID: 3647872075907679482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 818
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd662957a62b7c4296e0c076ba23b40
+      internalID: -1140597112506414665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 818
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b71f453c19d50409d576ec42b47324
+      internalID: -2633792513280140670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 818
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158ba6585d91e0a4bbeaf3266b18c655
+      internalID: 4975869099014095794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 818
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e916cb4ab8bfe340a48f8f12871f148
+      internalID: 1856206007453774889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 818
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3afc5f1a3492645930af6026b167ac
+      internalID: -1856003138625245257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 818
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5355d300e3925304db5d43012283912e
+      internalID: 7631035773000856897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 818
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa3ce9c5f306464098f9c1bc29b372d
+      internalID: -7156868130246095805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 818
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0face8e979a3b499aeb5215f56ef0d
+      internalID: -8162832436399954535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 818
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e3fe9324cd92b45b59cd77d3948b65
+      internalID: 9136866728917485062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 818
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b22cef41b55f0640b3f173bba15de3f
+      internalID: 4366651415230347994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 818
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef85c57e229947458878786ac194dae
+      internalID: 6731905000524866801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 757
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f04141bcd162c4a93a3b93dc666578
+      internalID: 8458537220092187953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 757
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b804fe4a05589749a129fb585687439
+      internalID: -490859533134101966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 757
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0c404550543024897d55f1e68b7ae1
+      internalID: -4658573060797862545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 757
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b0c2bd0e897b446bde58666b07c817
+      internalID: 6884940638812096637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 757
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba5c4d8eff710a48901d42b37dc13c0
+      internalID: -7979928896944715207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 757
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731106472509df340b89f9bed107e5fa
+      internalID: 1593347390739439752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 757
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92785b17704bf984ba0ab30a013d6241
+      internalID: -3632435024301108014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 757
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97e4720a1d263640b96623749c05394
+      internalID: 8792184776496918511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 757
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2066cb8c208317a48a191d35f459a171
+      internalID: -8136023933499426632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 757
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66c5bf1844f59640962794f63fbbeab
+      internalID: -6670766240085039468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 757
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2b972aa13e67444bb5655670c0c278
+      internalID: -7577254602233162373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 757
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08262a2605d5d94cb54d38a05fdc001
+      internalID: -4187805146282477075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 757
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc2b241454be324eab24974d82cece2
+      internalID: 3347713747046057070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 696
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddfbe3214664074c8c6a0f302e2d044
+      internalID: 8876869021860134316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 696
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ed4ac1b2d6802479a9674f2206c8f7
+      internalID: 7520487761982454230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 696
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c42e3e3a5b18342b1313307b562fa6
+      internalID: 9058980436392931501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 696
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038fe14cb04c3594198c450de7c4c93c
+      internalID: 687442070651313562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 696
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9327c2d3dc0d03d40932ea9ddaa13d4f
+      internalID: 8274381173224248566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 696
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d92a7d8a444eb1429759dc554e632d9
+      internalID: -4321520656950103651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 696
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9253001de378213419e5e5cebb4bc237
+      internalID: 5982448739867335253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 696
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786f3de379be73441ac95582722f027b
+      internalID: -1577503122895418632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 696
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00aef5026c9a2847a0ee8f7b92d398c
+      internalID: -3597711050119542261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 696
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394b4a8ace83de243a32c23caa5e3f15
+      internalID: 1765756870915602097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 696
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd3fc1601bb114408b03a4d9249112c
+      internalID: -1572642203363371888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 696
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7bc00c1f3f1a240bd35d9c7a3c8b12
+      internalID: 3153396444562893891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 696
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bee464c6a0e10c4f915cbf324159e79
+      internalID: -4858524111933622225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 635
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c0173acc46f384c85e039e7df11f41
+      internalID: 7504759388226972143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 635
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90fb25360edebd4d8dd50d3a3c314c0
+      internalID: -3297728429561287493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 635
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43381403c7182c345bc27a3555abddf7
+      internalID: -3899512691746018800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 635
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceaf9c7b78bb254293d99adc5795c59
+      internalID: -6561040408797214917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 635
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0359183042bd54a94a0baec48f7a98
+      internalID: -4607603908414658808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 635
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955535a57fc47694bba0cd8bba039254
+      internalID: -5531211645673783566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 635
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18571de4b9bdd3408c72da88008e824
+      internalID: -3966498377062045723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 635
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4854d54a4a51e274283e43f46d95a71e
+      internalID: -3975571839317341345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_60
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 635
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74d8aa0491b19b40bad400016164794
+      internalID: 7738404959341171497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 635
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a1273c175d1d8448a4bf7ebc5ec918
+      internalID: 8147180475426721989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 635
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c217088200026e7449426e8e7a991cca
+      internalID: 1266968303907407379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 635
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34719520ebcf529418658b820cb7fdef
+      internalID: -5394825283818000766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_64
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 635
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6bd4468ce62924fb59d0e0fb619230
+      internalID: -6291231429890511228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 574
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044f0e737a7433748ac7c4f0434ffee4
+      internalID: -2003146849188008558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_66
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 574
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d078412fa5a1f4dbb83d30dc24b09a
+      internalID: 5490684230998804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_67
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 574
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e553b430a3e056b459be610141e23174
+      internalID: -4977697760938733675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_68
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 574
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2980986579eeeb943b6cac114dffe192
+      internalID: 6919401780446013114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_69
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 574
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107a1ac1b7cd076498ab8854399bc44a
+      internalID: 114911838070478025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_70
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 574
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dcc81f3e576a447b1870807890238e
+      internalID: -4918718025099846098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_71
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 574
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1a7251e78dc154389838baef1656bf
+      internalID: -1469148456035905402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_72
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 574
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992d65b9f282a2d4786f3d1655f52b34
+      internalID: -5414578958790633099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_73
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 574
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885290a997a7370418928aed68a20d4f
+      internalID: -1731049658913535043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_74
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 574
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7102e39067db3b04d8afc807db3d86e5
+      internalID: -5925309980928633719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_75
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 574
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978aa50abfb358b49bf0373c44f93fed
+      internalID: 7358081902057593469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_76
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 574
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66b8c3bbd998fd4389c1445fdfc3ac1
+      internalID: -7020455581148090675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_77
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 574
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549dcb4d39507584b8a0feb5f2319ef9
+      internalID: 8686616069400837303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_78
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 513
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e82e8856a17a048b38185161e704f2
+      internalID: 1340061258236377419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_79
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 513
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094401ceda7cb7f4e8ef9e281492f600
+      internalID: -683588822659061513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_80
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 513
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120fd6968fb5ab043b5a1750232a5660
+      internalID: -3712239601307835931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_81
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 513
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7394013c9c44a14591c62800b394262
+      internalID: 95979573289187445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_82
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 513
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b77abc2c671854bbfc92bc63a07b2a
+      internalID: 4275893852357970110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_83
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 513
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e180080975ddd9489265e01b055cd5a
+      internalID: 757247158486830288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_84
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 513
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39baff4106721ca4f99cd81eaba3a672
+      internalID: -1602607617304873387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_85
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 513
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8addffa1a9efbb946a8bce8ad779a19a
+      internalID: -543436152481813242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_86
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 513
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1fadcd254194c418af88be14d6ffff
+      internalID: 2226034683335626042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_87
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 513
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73003c14b44ff94d91063d7c6f288bf
+      internalID: -5949735809167647629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_88
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 513
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92072afe2a278af4e953249a11564470
+      internalID: -561870988328843769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_89
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 513
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a726b5687844f47afe75e9f8574062
+      internalID: 2262653430691885642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_90
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 513
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72d0510a3b77f94cb128f6c8d17f987
+      internalID: 4895120436462910246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_91
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 452
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018c283146eed524f973bea637e4a990
+      internalID: -7790602753100449097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_92
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 452
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17b4f42e615f0f4393cdd777b34db43
+      internalID: 7608017301124491963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_93
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 452
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e90fde2ff76c2045b6b3d411f1e3282
+      internalID: -8115278902792830801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_94
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 452
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cf725520611ba46acc9b47624cf2e7
+      internalID: 773918279680494544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_95
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 452
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef936fe658c64ad42a942fe2ddb29e9e
+      internalID: 3888237696220021762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_96
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 452
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd011e9fd24dfe4a8507feda13d0233
+      internalID: 673838026856782232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_97
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 452
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bb667fec37ac54aaea8b69e0527b01
+      internalID: 1700247865906217622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_98
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 452
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88102cb55c4078b4e8524390fbfc7f31
+      internalID: 2200568157103865148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_99
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 452
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93f0f3cf93e1784e83d70514190cfdd
+      internalID: -3106077333316337563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 320
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0538970cb4a1d409aff2ee2dc9ead2
+      internalID: -7593663271246557320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_102
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 200
+        width: 224
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e05dd8db13090469d94e67f6e0e0ca
+      internalID: 3144857585651159370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4bf4d782fba904e955ff2e2b69b08d
+      internalID: 6898896140135790704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_104
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 153
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54643a9a1949d94587c5130b9c12ad1
+      internalID: -220440453607125842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 153
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b2eb49a7097f64ab617b58e7f91cd9
+      internalID: 7992751278926305831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_106
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 153
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d57b1bc857d32d4f94bad5f23db6e3b
+      internalID: 5273069521476798588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_107
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 153
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b29c2ae7e2bbe43b0976cd940efb1d
+      internalID: -7761058942642743750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 153
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8698cad24a5c32418f3c1bcb0dbd774
+      internalID: -6417183802825050519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_109
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 153
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e25858c9108f0f42b0859784ad3e854
+      internalID: -8034668655183400143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_110
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 153
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df68fee092e1e3541a78cf06764e268f
+      internalID: 1969270980003405953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 156
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c874308812d5443a31a4759c3135c8
+      internalID: -275344826675811022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_209
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 165
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386c137ed88795441b8600032b072075
+      internalID: 3215760708211996950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_113
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 161
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bb70453702454478ca1a32f6cba95a
+      internalID: -2869179209029740216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_114
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 143
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8de6834c9dad8418ce9c1fa98b7d16
+      internalID: -491275026043666254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_115
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 141
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b386159932859e4eb9c834e678717cc
+      internalID: -5347982032538230893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_116
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 140
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d40249131fe5142953f2a085b8215a
+      internalID: -3928011096383910039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_117
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 141
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3fcf877a4f49b499d934425dad68d9
+      internalID: -6077728837563037500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_118
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 143
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9811770af26d92f43a8502c093b0d23f
+      internalID: -4669342660213820182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_119
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 141
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c969ad23f396ffb4388cbd4badeb4694
+      internalID: -4290785413462745366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_120
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 141
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210eebba609c49145a15105ae27ba196
+      internalID: -8754192281204314982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_121
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 141
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b0dc791a164f045a4a6909545433e9
+      internalID: -500362386074806409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_122
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 141
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c2859a2759191418bc435cc5c8189d
+      internalID: -2793175325400397432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_123
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 136
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad81d92da8bcd14b97d8e8f94f2d15c
+      internalID: 1025083549743220638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_124
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 145
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12f45a704d9b5241a37daafcaefa35c
+      internalID: 7246769998729299640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_125
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 118
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e1c688e7cc144429e13d3bc51cc0f3
+      internalID: -4627421613718119024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_126
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 118
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdee07a253cc7d4eb6f7405ea215637
+      internalID: 3932907347416605244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_127
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 119
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d7988a0f968644d87ec592ce9090bd
+      internalID: 262844819380249536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_128
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 119
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f80948d01494b4181207e727223e43
+      internalID: 5541178964555350404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_129
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 118
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada806625fa62804fb118bdef7596b57
+      internalID: -2677284554550277723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_130
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 118
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeea4d3f188dfd34d83cd4144df9a4aa
+      internalID: -2967194319723921292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280de938bef50574eb43cbd628819351
+      internalID: 1006977869107361765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_132
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 121
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5279a948b23a2245a643999cb4effba
+      internalID: 3390183723298415620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_133
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 121
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7fc95e25496964f8222bab679d7131
+      internalID: -8721588525658280505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_134
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 121
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e770289a893076349b584c1fd331cfc5
+      internalID: 6764145279126939799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 121
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d819ac074e1b6249ae4014584f218ff
+      internalID: -3929418492107443090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_136
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 121
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd2743472918d346bd88d588b60ee2a
+      internalID: 276923575601380164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_137
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 121
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5484936c56335b046bb67339fcedbd4a
+      internalID: -938068803633576224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_138
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 121
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b481be51ba1f9874c9456853060aa64e
+      internalID: 2361292515560148377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_139
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 132
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5617ff42f955b3647b9e02aa31b09cf8
+      internalID: -615604265409754184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_140
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 132
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd255773820421140af814d2b890985f
+      internalID: 2168760658017576206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_141
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 95
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31404d0851cd5a3478575b450aca81fb
+      internalID: 1571475470755363458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_142
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 95
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b6ea6d69ad7f74f89dde0da5353832
+      internalID: 307692797672178345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_143
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 139
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd5149f05443da49870f40ef35b8e81
+      internalID: -426592590903640573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_144
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 96
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd4b573308b0d5468c947dbf5cb5541
+      internalID: -3851513304991599660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_145
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 93
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fe627629754344fa98eff822a5736d
+      internalID: -7964497357823969716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoAzul
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 65
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f575f2837d0b3489636ca2cae3893f
+      internalID: -3418194304305599538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoRojo
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 65
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b995c1ba833c73d48b23c2c0eb42d8bb
+      internalID: 1633007646062752776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 65
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a644d2488fae528499cce108192dee84
+      internalID: -5502256584551157637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloque2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 65
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6720296f2aceeb4a8d3ce438f165200
+      internalID: 7926909556240217151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reverso
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 65
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084264edddb907f45b35e181d4c57ce3
+      internalID: 3802120533137283412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_152
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e04e57d6babe14e9eb67bb0844c7c4
+      internalID: 4122905016444414522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_153
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 109
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62165bbceeb795b449d0777279384efa
+      internalID: 6479617072146503105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_154
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848eae2584875304eb3ec5e34e996492
+      internalID: 4687952663201275961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_155
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b174ba76476fecb4a8e56878e46a5b6b
+      internalID: -476076246337250387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_156
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9534bf5c8371f7346b5b78abaccdf4e7
+      internalID: 8866575815045610515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_157
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e763f8e7bee7b347be6e8eb047cafb4
+      internalID: 5788443886066861475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_158
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 109
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a1641c2132da744b7f23e910fc4d2b
+      internalID: -5254464966040293351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_159
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636bcd6cd18657a43afff6219c2bd7e9
+      internalID: -356158534502053770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_160
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15f65c7f1329b84e986f142195de163
+      internalID: -4769488869624090137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_161
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df92e5dc97d7254fa78a3f03b5a6739
+      internalID: -5572760381839349156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_162
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768e2395fc0cbea42bd0db4f40298dce
+      internalID: 3548296901143179299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_163
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5183f3294c77a104289120997b2f8079
+      internalID: 3732256344275498472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_164
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a82e4c838b6837409c9243d6245d0dc
+      internalID: -1294791258642906292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_165
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bb3968e738d154ca6e4ad00c841e62
+      internalID: -5415316031876217052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_166
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f9446f3b347d042bb6078f3b9b0602
+      internalID: 5913853210901841329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_167
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f9d9f0b7d66b448bcdaf7114a2325e
+      internalID: -5873200642696105725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_168
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b8555eec2557542bc76e5cb58ade81
+      internalID: -4095282649943564693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_169
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ced0f00ba72e3a42837caac3453a382
+      internalID: 2143515100070344024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_170
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13adf1fced45f447939863d9495adb9
+      internalID: -5031812852603911539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_171
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 93
+        width: 39
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caf8de1b1941a94bb52d9df8df40693
+      internalID: -5093253478651712641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_174
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 92
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e769fee2d70aa04e807dbb2c1a7aa43
+      internalID: 6184933347966418362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_175
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 92
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84faf4102594de94d98085a4192cfe8b
+      internalID: -971029128792872866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_177
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ab67a714f3a494cba51dcd4008f0af
+      internalID: -4133344385944107971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685ae298a5e7f584da663420d34e94d1
+      internalID: 6073904262031134596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_179
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 18
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2e7fca5f0cd4640ad3fd96b6b9df62
+      internalID: -6505144024286253697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_180
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 18
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca924d36aa3ae5418ae8938546da157
+      internalID: -239902618285275409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_181
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 18
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64443f492dbc1b4429b4d178b3648993
+      internalID: -870996090492630138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_182
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 18
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb145bbde3ef6e243b2958c63dcce032
+      internalID: -7062215385212047018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_183
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 18
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975eb800f0ef97241933eec20c7d1fce
+      internalID: 7691527287942062480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_184
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 18
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c9a23b57d34284291225a1f308c2fc
+      internalID: 3327569823679043867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_185
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 18
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58d5e2415bcbb94aa9c93119429316e
+      internalID: 4692887815441386080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_186
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 18
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f519cbafa5fb6734fa5e793745bb6013
+      internalID: -7315882527908729379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_187
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 18
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2e5dfc61cb4734b8fd1db84a1bb217
+      internalID: 9187787716234536427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_188
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 18
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b3dfebcdd0a6744a42274398967e9b
+      internalID: -3077191348564416678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_189
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 18
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f50f338e16cae4abc3ef60e51c1e52
+      internalID: -6838495726534768605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_190
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 18
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037b49a9b15c6e44086460944da76669
+      internalID: 7146157640809028000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_191
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 18
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adafb11121a1aa546b4d9e5a50f75a81
+      internalID: -3025517119228280653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_192
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 18
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d94d6946d99394ba12bb70961990d0
+      internalID: -7123134499913371311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_194
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2abdb56e4c0214a89947e5f560f925
+      internalID: 5715509976039243563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_195
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02b3c1b726fdab4fab990eb54b3f188
+      internalID: -3451227405437679196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_196
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8eb7930fdea1145bdfdbdbb868086f
+      internalID: 6240850606710570889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_197
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4fc7afaaa63f04ebafc86aea50259c
+      internalID: -3607004409221681698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_198
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f85abbcda8f10441a43a47ef69374c8
+      internalID: -9171490240446212500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_199
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0af9485f46f85e4b929f036784c60f5
+      internalID: 8839485993171771000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_200
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4891c4df787d65443807590bfba618a4
+      internalID: -6066732208996225675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_201
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927035a7bf9b21046b0caee21254ad1f
+      internalID: 3176874791002604380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_202
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd078270d1337d47b5ff2ac17154815
+      internalID: -7008192075115407472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_203
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e192d77d09853cf4bafbcfe6ae126944
+      internalID: 8474382691757148537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_204
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 5
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41e492c806861347b22e9db1e31a6df
+      internalID: -3426868590455346181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_205
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786a60d613606bc4b8a26a80eccca210
+      internalID: 6121974581500646643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 153
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57bcc35022b8c440822af2d7062b43d
+      internalID: -7087079885233164657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_208
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 121
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec4cfb572a5cd34bac6a5a2c5470230
+      internalID: 5290319762279118123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_210
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 165
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9c770f078c8e04d8a56ad66982b92d
+      internalID: 5109364593310892113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_211
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 165
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a51a8fb79b42242856b1bd54bb1f3c
+      internalID: 6960952598504924389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_212
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 165
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a66770485c3a5347a369c90d3f09596
+      internalID: 7261769508148332834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_213
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 165
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587c5f79d29fbd24c891a4158336b3e0
+      internalID: 2395464597938003004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_214
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 165
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1146d5f2bb2448f4683d8f38c1445c1e
+      internalID: 5377252881065012775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_215
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 165
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bf4d3b7f21f7844938051c136a4353
+      internalID: -8212685085119852305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_216
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 165
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c996047c7174141a1ec70e80824859
+      internalID: 8461905894362723852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 153
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5294e6e26cc794b90659203db89601
+      internalID: -5165303998707773427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 153
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37efd14f9163c24aaaa0259e0ed9ca6
+      internalID: 3215760708211996950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_217
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 121
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f82787efe8abcf4b92a6ab278cb9953
+      internalID: 4885375177706120482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_218
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 121
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d9c6a08d5c05641a11114aca35dc67
+      internalID: 894891041728831423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_219
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 127
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ea429e4ec05014e99687152ba5a25f
+      internalID: 5494745759240920127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_220
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 127
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890223cb911f6594fb425015bc8ba8fa
+      internalID: -756867456966803047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_221
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 127
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216a0eb00282d124fb8891ff4b05d106
+      internalID: 7332672697105729045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_222
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 127
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b653064c094b34b973d0f3cafda9f3
+      internalID: -6586497395403727960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_223
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 127
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cfdb9d39c1e324faeecde49c3de52a
+      internalID: -8737631376746802111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_224
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 127
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95251c7684fd1fd499ec7d052c6409af
+      internalID: 674277344559204154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_225
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 127
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a9839227e9c6d4e8c130f000ed9e4a
+      internalID: -4302330872244356593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_226
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 127
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac460af72142cae4ca22d82e0bbbf949
+      internalID: 1460631819018726858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_227
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 127
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b6da87602edb040aca0d009f710491
+      internalID: 5329121526104644591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_228
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 127
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772f49455983ee744a0cd7b545d56ff9
+      internalID: -1363324328584640723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_229
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 127
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b7cfa9604ab6a4e91d9c45d859e919
+      internalID: -2660693962228853702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_230
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 127
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5591ef7f70c336d44a45e440f86e07f5
+      internalID: -2078748711689594840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_231
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 119
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f6a27ea582d454fb181815d8d8fbe7
+      internalID: 2242238429447275034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_146
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 119
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2a02d0facd0f240a05704b66ecb158
+      internalID: -2379870978285716537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_232
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 119
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87e9bbc28082a349956e6f62b45b41c
+      internalID: 3380430074114110500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_233
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 119
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cf839fe57bee64696ecbbb81df3f7b
+      internalID: 5109463735817932485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_234
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 119
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ae7344977a5ab4fafc5095e48a0e39
+      internalID: 3478256608241250841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_235
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 119
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8342029783d8fa43b06ab4c09f2be53
+      internalID: 8846718003110522320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_236
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 119
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20781df487fec849b823646f33d3033
+      internalID: 8811252569499387022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_172
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 96
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8af3440229acf4428b19032d9df1041
+      internalID: 1957354449270071573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_173
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 101
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9aa51e0abcac246be7128cbf5bf3d7
+      internalID: -6191373749544231670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7c7e0e93b732e43bc7489c716521c5
+      internalID: 7933198689350890578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_193
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 10
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bdb5b425249ec4d9c84a5e6c5ca579
+      internalID: -1970001223228887287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_206
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 10
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1acef26edafff41832e7938936793e
+      internalID: -9097791341725541734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_237
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 10
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aea7d1c7f6abc9429b5db835ffea2a2
+      internalID: 60037115281180046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_238
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 10
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8636a63fc98386646aaa2606452d52ae
+      internalID: -8334543656307599835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_239
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a9d1083daec0d4fb098b224fcc3543
+      internalID: 4990406358870913092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_240
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b123ee4b387744abf6bebb7eb0cc67
+      internalID: 7816719533130076494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_241
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e428466689741b54bb1c3b2d5a7d271c
+      internalID: -1252599018554725329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_242
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db9947cfe8150e4383281588247b262
+      internalID: 8529021124108036597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetra Master Sprite_243
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4577fec95a9b524982f40d8996c8a20
+      internalID: -6151100056579454509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
